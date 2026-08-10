@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping API
-        run: curl -s https://acc3202-ticketing-bot.onrender.com/api/health
+        run: curl -s https://ticketing-bot-0zsd.onrender.com/api/health
