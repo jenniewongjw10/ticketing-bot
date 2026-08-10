@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/acc3202-ticketing-bot/',
+  base: '/ticketing-bot/',
   plugins: [vue()],
   resolve: {
     alias: {
