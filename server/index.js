@@ -18,7 +18,7 @@ const app = express()
 app.set('trust proxy', true)
 
 app.use(cors({
-  origin: 'https://hunternbh.github.io',
+  origin: 'https://jenniewongjw10.github.io',
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
 }))
